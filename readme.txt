@@ -5,3 +5,4 @@ Git tracks changes.
 Git new page
 Creating a new branch is quick and simple.
 you my eye
+merge dev
